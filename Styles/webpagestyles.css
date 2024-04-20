@@ -1,0 +1,16 @@
+body{
+    background-color:#FF8F8F;
+    color:rgb(102, 7, 47);
+    width: 100vw;
+    height:500vh;
+    margin:0;
+}
+
+h1{
+    p{
+        font-size: 25px;
+        background-color:rgb(102, 7, 47) ;
+    }
+}
+
+
